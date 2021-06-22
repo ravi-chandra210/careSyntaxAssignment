@@ -15,7 +15,7 @@ public class careSyntaxPages {
 	
 	/**
 	 * @author : Srinivasa Ravi Chandra Muktavarapu
-	 * @category : Trivago case Study
+	 * @category : Caresyntax case Study
 	 * @Task : Automation of given Scenario
 	 * @date : 04/06/2021
 	 */
@@ -78,7 +78,7 @@ public class careSyntaxPages {
 		}
 	}
 	
-	/*.....This Method will Launch browser and launching trivago weekend URl. 
+	/*.....This Method will Launch browser and launching Amazon URl. 
 	 * Browser name and Website URl is passed from Test data excel sheet .....*/
 	public WebDriver launchAmazonWebsite(){
 		try {
